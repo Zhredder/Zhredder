@@ -6,7 +6,7 @@
 
 <p>I am a software engineer on the cusp of graduation, brimming with an appetite for tackling technological challenges that demand innovative solutions. My aim is laser-focused: to join a forward-thinking organization where I can continuously elevate my skills and contribute to projects that push the envelope. Teamwork isn't just a buzzword for me; it's a strategic approach to software development that fosters creativity, accountability, and a superior end product. Fueled by a growth mindset, I see unfamiliar territory not as an obstacle but as an opportunity for exploration and learning. Committed to honing my craft each day, I seek to not only be better than my past self but also to make a lasting impact in the tech industry.</p>
 
- <h2>  	:monocle_face: Well, what can you do? </h2> <img width="350px" height="360" align="right" src="https://github.com/Zhredder/Zhredder/blob/main/batman.gif">
+ <h2>  	:monocle_face: Well, what can you do? </h2> <img width="350px" align="right" src="https://github.com/Zhredder/Zhredder/blob/main/batman.gif">
 
  -  Skilled in leveraging web development technologies (HTML, CSS, JavaScript, &nbsp;PHP) to build scalable, responsive web solutions.
  -   Proficient in applying object-oriented programming principles in Java and C# to develop robust and maintainable software.  
