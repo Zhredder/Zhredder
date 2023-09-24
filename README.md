@@ -9,7 +9,7 @@
  <h2>  	:monocle_face: Well, what can you do? </h2> <img width="330px" height="320"align="right" src="https://github.com/Zhredder/Zhredder/blob/main/batman.gif">
 
  -  Skilled in leveraging web development technologies (HTML, CSS, JavaScript, &nbsp;PHP) to build scalable, responsive web solutions.
- -   Proficient in applying object-oriented programming principles in Java and C# to develop robust and maintainable software.  
+ -   Proficient in applying object-oriented programming principles in Java&nbsp;and C# to develop robust and maintainable software.  
 -  Demonstrated ability to optimize performance through a deep understanding of data structures and algorithms.
 -    Driven to continuously elevate technical proficiency to meet evolving challenges; adaptable learner.
  -  Effective communicator with a proven ability to articulate complex technical concepts in both written and oral forms.
