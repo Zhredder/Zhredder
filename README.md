@@ -18,7 +18,7 @@
 
 <h2>:books: Uh huh, and what are you studying?</h2>
 
-- University of Waikato
+- Bachelor of Science in Computer Science [2020 - end of 2023]. University of Waikato.
 
   <br>
 
