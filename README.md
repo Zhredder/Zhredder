@@ -14,7 +14,7 @@
 -    Driven to continuously elevate technical proficiency to meet evolving <br> challenges; adaptable learner.
  -  Effective communicator with a proven ability to articulate complex  <br>technical concepts in both written and oral forms.
   -  Collaborative team member committed to elevating group performance<br> through active engagement and a commitment to shared goals.
-  -  Experience with documentation and planning for communicating and designing clean code. 
+  -  Experience with documentation and planning for communicating <br> and designing clean code. 
  
 
 <h2>:books: Uh huh, and what are you studying?</h2>
@@ -26,11 +26,14 @@
 
 <h2>:computer: What's that stack looking like?</h2>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 <h2>:keyboard: Cool, what are you doing currently?</h2>
 
-- 
+- Working on my problem solving skills (Check out my hackerrank and Leetcode)
+- Working on a start up elderly project for a paper.
+- Working on a project
 
   
 
