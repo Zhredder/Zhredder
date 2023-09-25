@@ -14,6 +14,7 @@
 -    Driven to continuously elevate technical proficiency to meet evolving <br> challenges; adaptable learner.
  -  Effective communicator with a proven ability to articulate complex  <br>technical concepts in both written and oral forms.
   -  Collaborative team member committed to elevating group performance<br> through active engagement and a commitment to shared goals.
+  -  Experience with documentation and planning for communicating and designing clean code. 
  
 
 <h2>:books: Uh huh, and what are you studying?</h2>
