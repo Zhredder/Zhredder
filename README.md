@@ -31,7 +31,7 @@
 
 <h2>🔍 Ongoing Initiatives</h2>
 
-- Working on my problem solving skills (Check out my hackerrank and Leetcode)
+- Working on my problem solving skills (Check out my hackerrank)
 - Working on a indie game platform start up project for a paper.
 - I use a pomodoro timer while I am working. However, the ones that are found online are quite limited in their functionality. So I am building a more advanced version of the timer, with more capabilities. 
 
