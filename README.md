@@ -4,7 +4,8 @@
 
 <h2> 🙋‍♂️ About</h2>
 
-<p>I am a software engineer on the cusp of graduation, brimming with an appetite for tackling technological challenges that demand innovative solutions. My aim is laser-focused: to join a forward-thinking organization where I can continuously elevate my skills and contribute to projects that push the envelope. Teamwork isn't just a buzzword for me; it's a strategic approach to software development that fosters creativity, accountability, and a superior end product. Fueled by a growth mindset, I see unfamiliar territory not as an obstacle but as an opportunity for exploration and learning. Committed to honing my craft each day, I seek to not only be better than my past self but also to make a lasting impact in the tech industry.</p>
+<p>I am a graduate software engineer eager to solve complex technological challenges with creative solutions. My goal is to join a progressive company where I can improve my skills and contribute to meaningful projects that enrich the lives of others. I value teamwork highly, seeing it as a key to creative, accountable, and high-quality software development. With a growth mindset, I view new challenges as chances to learn and grow. Dedicated to daily improvement, I aim to surpass my previous achievements and hopefully make a significant impact in the tech industry.
+</p>
 
  <h2> 🛠 Technical Competencies </h2> <img width="370px" align="right" src="https://github.com/Zhredder/Zhredder/blob/main/Animation.gif">
 
