@@ -21,6 +21,7 @@
 <h2>📚 Academic Background</h2>
 
 - Bachelor of Science in Computer Science [2020 - end of 2023]. University of Waikato.
+- Google IT Support Professional certification
 
   <br>
 
@@ -34,8 +35,7 @@
 
 - Working on my problem solving skills (Check out my hackerrank)
 - Going through the odin project/updating projects. 
-- I use a pomodoro timer while I am working. However, the ones that are found online are quite limited in their functionality. So I am building a more advanced version of the timer, with more capabilities.
-- Building Brother Eye, a global monitoring system.
+
 
   
 
